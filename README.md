@@ -21,14 +21,13 @@ You can print the value of the variables to the browser console (ex: `console.lo
 
 1. Use the following code to answer the questions below:
 
-```
 let num = 11;
 let str = "11";
 let str2 = "eleven";
 let isPresent = true;
 let firstName = "Frodo";
 let lastName = "Baggins";
-```
+
 
 - What is the value of: num + str?
 - What is the value of: num + str2?
